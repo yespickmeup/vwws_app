@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+   <menu xmlns:android="http://schemas.android.com/apk/res/android" >
+       <item
+           android:id="@+id/connect_to_printer"
+           android:title="Connect To Printer" />
+       <item
+           android:id="@+id/upload_item"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:title="Upload Readings" />
+        <item android:id="@+id/download_item" android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:title="Download Assignments" />
+        <item android:id="@+id/logout_item" android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:title="Logout" />
+
+    </menu>
